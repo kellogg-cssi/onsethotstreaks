@@ -30,7 +30,7 @@ Due to the github file size limitation, files/folders larger than 100MB can be d
 tokenized movie plots (448MB): a pickle file, dictionary whose key is the movie id and the value is a list of tokens
 - https://www.dropbox.com/s/kjpae6f7zwykooc/m2clean_word.p?dl=0
 
-edgelist for co-citing network (1.6G): a compressed txt file, each row denotes the link between two papers and their weights 
+edgelist for co-citing network (1.6G): a compressed txt file, each row denotes the link between two papers and their weight
 - https://www.dropbox.com/s/7lwdgrmh3rvntxk/reference_edgelist_authors.txt.bz2?dl=0
 
 artnet images (11.8G): a compressed folder, images within each artist subfolder 
