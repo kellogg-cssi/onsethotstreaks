@@ -27,17 +27,17 @@ science folder: career profiles (google scholar id and WoS paper id for each ind
 
 Due to the github file size limitation, files/folders larger than 100MB can be downloaded from the following links  
 
-tokenized movie plots (448MB): pickle file, a dictionary with key as the movie id and the value as a list of tokens
+tokenized movie plots (448MB): a pickle file, dictionary whose key is the movie id and the value is a list of tokens
 - https://www.dropbox.com/s/kjpae6f7zwykooc/m2clean_word.p?dl=0
 
-edgelist for co-citing network (1.6G): a compressed txt file, each row is a link between two papers and their weights 
+edgelist for co-citing network (1.6G): a compressed txt file, each row denotes the link between two papers and their weights 
 - https://www.dropbox.com/s/7lwdgrmh3rvntxk/reference_edgelist_authors.txt.bz2?dl=0
 
-artnet images (11.8G): https://www.dropbox.com/s/bb5fol2c5f77pel/artnet_images.tar.gz?dl=0
-- compressed folder, images within each artist folder
+artnet images (11.8G): a compressed folder, images within each artist subfolder 
+- https://www.dropbox.com/s/bb5fol2c5f77pel/artnet_images.tar.gz?dl=0
 
-ark500K images (56.6G): https://deepart.ust.hk/ART500K/art500k.html (Raw images of visual arts with general label list)
-- compressed folder, images within each artist folder
+ark500K images (56.6G): a compressed folder, images within each artist subfolder
+- https://deepart.ust.hk/ART500K/art500k.html (Raw images of visual arts with general label list) 
 
 
 
