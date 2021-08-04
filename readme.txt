@@ -21,7 +21,7 @@ data.rar file contains data for the main figures in the manuscript "Understandin
 
 This rar file contains 3 folders.
 
-art folder: career prodifes (auction record and images for each indivudal) 
+art folder: career profiles (auction record and images for each indivudal) 
 movie folder: career profiles (IMDB movie list for each indiviudal), movie cast data
 science folder: career profiles (google scholar id and WoS paper id for each indiviudal), paper subject id to train 64D paper vector, and team size of each paper
 
