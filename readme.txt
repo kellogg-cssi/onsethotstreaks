@@ -1,4 +1,4 @@
-code.rar file contains code and data for the main figures in the manuscript "Understanding the onset of hot streaks across artistic, cultural, and scientific careers". 
+code.rar file contains code for the main figures in the manuscript "Understanding the onset of hot streaks across artistic, cultural, and scientific careers". 
 
 Jupyter notebook (ipynb filetype, Python version 3.6) include guidance on installing specific packages. Python and jupyter notebook can be installed following the link: https://docs.anaconda.com/anaconda/install/. 
 
